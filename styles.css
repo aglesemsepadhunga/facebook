@@ -24,14 +24,14 @@
 	color: white;
 	background-color: inherit;
 	position: absolute;
-	left: 780px;
+	left: 850px;
 	top :15px;
 }
 #pass {
 	background-color: inherit;
 	color: white;
 	position: absolute;
-	left: 940px;
+	left: 1050px;
 	top :15px;
 }
 #lin{
@@ -50,7 +50,7 @@
 	font-weight: lighter;
 	color: rgb(49, 49, 49);
 	top: 100px;
-	left: 740px;
+	left: 60%;
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 #first{
