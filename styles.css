@@ -1,0 +1,147 @@
+*{
+    background-color:#dedff1;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#header{
+    background-color: #3b5998;
+    height: 82px;
+    width: 100%;
+    position: relative;
+}
+#tpfb{
+	color: white;
+	background-color: #3b5998;
+	font-size: 40px;
+	font-weight: 600;
+	position: absolute;
+	top:20px;
+	left :170px;
+	font-family: verdana;
+}
+#email {
+	color: white;
+	background-color: inherit;
+	position: absolute;
+	left: 780px;
+	top :15px;
+}
+#pass {
+	background-color: inherit;
+	color: white;
+	position: absolute;
+	left: 940px;
+	top :15px;
+}
+#lin{
+	border-radius: 2px;
+	background-color: #2e55a8;
+	width:110px;
+	font-size: smaller;
+	margin-left: 15px;
+	padding: 2px 8px;
+	text-decoration: none;
+	color: white;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#create{
+	position: absolute;
+	font-weight: lighter;
+	color: rgb(49, 49, 49);
+	top: 100px;
+	left: 740px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#first{
+	width :194px;
+	height: 38px;
+	font-size: 20px;
+	padding-left: 10px;
+	margin-top:  10px;
+	border-radius: 5px;
+	border: 1px solid grey;
+}
+#sur {
+	width :194px;
+	height: 38px;
+	font-size: 20px;
+	padding-left: 10px;
+	margin-top:  10px;
+	border-radius: 5px;
+	border: 1px solid grey;
+}
+#mobile {
+	width : 405px;
+	height: 38px;
+	margin-top:  15px;
+	margin-bottom:   15px;
+	font-size: 20px;
+	padding-left: 10px;
+	border-radius: 5px;
+	border: 1px solid grey;
+}
+#newpass{
+	width :405px;
+	height: 38px;
+	font-size: 20px;
+	padding-left: 10px;
+	margin-bottom: 15px;
+	border-radius: 5px;
+	border: 1px solid grey;
+}
+.birth {
+	margin-top: 5px;
+	margin-right: 10px;
+	height: 30px;
+}
+#policy{
+	width: 400px;
+	font-size: 12px;
+}
+#submit {
+	height: 40px;
+	width: 200px;
+	border: 1px solid black;
+	color: white;
+	border-radius: 8px;
+	padding: 10px;
+	background-color: #0a7d06;
+	font-size: 20px
+}
+#last{
+	width: 400px;
+	font-size: 12px;
+	font-weight: bold;
+	margin-bottom: 30px;
+}
+#left{
+	font-family: verdana;
+	position: absolute;
+	top: 110px;
+	left: 70px;
+	color: #13056e;
+	width: 500px;
+}
+#lang{
+    background-color: white;
+    position: absolute;
+    
+	top: 75%;    
+	color: #385898;
+	font-size: 12px;
+	position: absolute;
+	top: 730px;
+	width: 100%;
+	display:block;
+}
+#lang .lang{
+	background-color: white;
+	color: #385898;
+	text-align: center;
+	float: left;
+    padding: 10px;
+}
+#lang .lang:hover{
+	text-decoration: underline;
+}
